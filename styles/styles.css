@@ -236,7 +236,9 @@ width: 100%;
     animation-timing-function: ease-in-out;
     
 }
-
+.fact-description{
+    padding-bottom: 40px;
+}
 /* sponsor style */
 .sponsor-title,.sponsor-description{
     text-align: center;
@@ -345,7 +347,7 @@ input[type="submit"]{
     .fact-box{
         align-self: center;
     }
-    .fact h1,p{
+    .fact {
         text-align: center;
     }
 /* subscribe style for mobile and Tab */
